@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "139666092212",
+    "project_id": "larapushnoti",
+    "storage_bucket": "larapushnoti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139666092212:android:10e040979ecfa96b89a7e1",
+        "android_client_info": {
+          "package_name": "com.example.lara_push_noti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139666092212-4fe1mbktc9g61lqgl7rh1nsl274ook0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgWKuwrryP7jcEg_hzvnM4HMynzsYbbwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139666092212-4fe1mbktc9g61lqgl7rh1nsl274ook0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
